@@ -1,4 +1,4 @@
-# Saca tu Licencia · Clase B 🇨🇱
+# 🚗 Saca tu Licencia Chile - Aprende a conducir jugando 🇨🇱
 
 App web para preparar el **examen teórico de la Licencia Clase B en Chile**, basada en el
 *Libro para la Conducción en Chile* de CONASET (actualización de agosto de 2024).
@@ -91,6 +91,6 @@ y abrir `http://localhost:8000`.
 - Formato del examen: [CONASET](https://www.conaset.cl/mtt-presenta-nuevo-libro-de-conduccion-y-suma-importantes-actualizaciones-en-electromovilidad-y-seguridad-infantil/) y [MTT, preguntas frecuentes](https://www.mtt.gob.cl/preguntas-frecuentes-nuevo-examen-teorico).
 - Las preguntas del examen oficial no son públicas: esta app es para practicar y no reemplaza al examen ni al libro. No es una app oficial de CONASET ni del Ministerio de Transportes.
 
----
+## 🛠️ Creador
 
-Creada, diseñada y desarrollada por **Javier. B**.
+Proyecto creado, diseñado y desarrollado por **Javier. B**.

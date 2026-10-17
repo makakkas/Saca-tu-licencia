@@ -1,0 +1,12 @@
+# Configuración local del editor y de pruebas
+.claude/
+.vscode/
+.idea/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Respaldos de progreso descargados desde la app
+saca-tu-licencia-progreso-*.json
